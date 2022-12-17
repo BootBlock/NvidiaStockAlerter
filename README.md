@@ -3,6 +3,7 @@ Alerts you when a specific Nvidia product has stock available.
 
 ## Downloads
 See the [Releases](https://github.com/BootBlock/nvidia-stock-alerter/releases) section for available downloads; only Windows is supported.
+[.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) is required (download the Desktop Runtime x64 version).
 
 ## Which Regions are Supported?
 * UK
