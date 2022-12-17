@@ -1,4 +1,4 @@
-# NvidiaStockAlerter
+# Nvidia Stock Alerter
 Alerts you when a specific Nvidia product has stock available.
 
 ## Which Regions are Supported?
