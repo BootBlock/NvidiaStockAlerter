@@ -1,6 +1,9 @@
 # Nvidia Stock Alerter
 Alerts you when a specific Nvidia product has stock available.
 
+## Downloads
+See the [Releases](https://github.com/BootBlock/nvidia-stock-alerter/releases) section for available downloads; only Windows is supported.
+
 ## Which Regions are Supported?
 * UK
 
