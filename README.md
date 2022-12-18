@@ -26,3 +26,8 @@ Below is the default UI state before any checking has been performed.
 This particular screenshot shows the UI state after stock has been detected. Clicking on the *Visit Product URL* link directly opens the purchase page for the product, if available.
 
 ![nsa_mainwindow2](https://user-images.githubusercontent.com/18527642/208289024-795e3fff-ad33-4361-8518-01bdcf8ea651.png)
+
+## How Do I Update?
+You can use the built-in update checker to check for updates. Please note that currently you'll need to select *Download to File...* from within the update checker interface as it does not yet support updating via a `.zip` archive.
+
+Once downloaded, either via the update checker or manually downloaded from this site, delete the existing `Nvidia Stock Alerter` directory and extract the new archiver to a location of your choice. You can extract the archive over the existing installation if you wish to keep your existing settings.
