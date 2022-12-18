@@ -21,8 +21,8 @@ See the [Releases](https://github.com/BootBlock/nvidia-stock-alerter/releases) s
 
 Below is the default UI state before any checking has been performed.
 
-![nsa_mainwindow1](https://user-images.githubusercontent.com/18527642/208256162-73f157ad-ea97-478e-bb6e-6d98cc57726d.png)
+![nsa_mainwindow1](https://user-images.githubusercontent.com/18527642/208289030-8c548184-c297-4e94-b279-7ebe7c1c260e.png)
 
 This particular screenshot shows the UI state after stock has been detected. Clicking on the *Visit Product URL* link directly opens the purchase page for the product, if available.
 
-![nsa_mainwindow2](https://user-images.githubusercontent.com/18527642/208256200-743780d7-ded1-4b2f-a263-f491e9fee830.png)
+![nsa_mainwindow2](https://user-images.githubusercontent.com/18527642/208289024-795e3fff-ad33-4361-8518-01bdcf8ea651.png)
