@@ -33,7 +33,7 @@ Download the latest version (see **Downloads** section, above) and extract the `
 ## How Do I Update?
 You can use the built-in update checker to check for updates. Please note that currently you'll need to select *Download to File...* from within the update checker interface as it does not yet support updating via a `.zip` archive.
 
-Once downloaded, either via the update checker or manually downloaded from this site, delete the existing `Nvidia Stock Alerter` directory and extract the new archiver to a location of your choice. You can extract the archive over the existing installation if you wish to keep your existing settings.
+Once downloaded, either via the update checker or manually downloaded from this site, delete the existing `Nvidia Stock Alerter` directory and extract the new archive to a location of your choice. You can extract the archive over the existing installation if you wish to keep your existing settings.
 
 ## Where Are the Settings Saved?
 Within the NvidiaStockAlerter directory, there is a directory called `ApplicationData` that contains all settings. NSA is an entirely portable application.
