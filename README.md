@@ -27,6 +27,9 @@ This particular screenshot shows the UI state after stock has been detected. Cli
 
 ![nsa_mainwindow2](https://user-images.githubusercontent.com/18527642/208289024-795e3fff-ad33-4361-8518-01bdcf8ea651.png)
 
+## How Do I Install Nvidia Stock Alerter?
+Download the latest version (see **Downloads** section, above) and extract the `.zip` archive to a location of your choice. Ideally, don't extract it to `Program Files` as Windows will not allow it to write to its own directory which is required as NSA stores its settings right along with the executable. Extract with paths as the archive doesn't include the root level `NividaStockAlerter` directory.
+
 ## How Do I Update?
 You can use the built-in update checker to check for updates. Please note that currently you'll need to select *Download to File...* from within the update checker interface as it does not yet support updating via a `.zip` archive.
 
